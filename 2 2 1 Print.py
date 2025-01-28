@@ -1,4 +1,5 @@
 # Aprender a usar PRINT en Python
+
 # Calcular el precio gastado en un estacionamiento e imprimirlo en pantalla 
 Pesos_por_hora = 200
 Llegada = 20

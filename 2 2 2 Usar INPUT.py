@@ -1,4 +1,5 @@
 # Ejemplo de uso de la función input
+
 # Programa que saluda al usuario 
 Nombre = input("¿Cual es tu nombre? ")
 Saludo = "Hola, "
