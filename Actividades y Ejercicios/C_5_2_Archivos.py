@@ -18,7 +18,7 @@ print(leer2)
 print()
 
 # Escribir en un archivo
-escritura = open("archivo2.txt", "w")  #Aqui me di cuenta que el archivo se creo fuera de la carpeta de actividades y ejercicios 
+escritura = open("archivo2.txt", "w")  # Aqui me di cuenta que el archivo se creo fuera de la carpeta de actividades y ejercicios 
 # y por eso, en arc tuve que escribir la ruta completa del archivo para que lo reconociera
 escritura.write("Hola, este es un archivo de texto.")
 escritura.write("\n Uno \n Dos \n Tres")
