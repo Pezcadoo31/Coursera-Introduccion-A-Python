@@ -1,16 +1,16 @@
 #Hola.
-#En esta ocasiÃ³n vamos a continuar con el cÃ³digo de nuestra red social,
-#al cual le habÃ­amos agregado un menÃº.
+#En esta ocasion vamos a continuar con el codigo de nuestra red social,
+#al cual le habiamos agregado un menu.
 #
-#El programa de la semana anterior permitÃ­a:
+#El programa de la semana anterior permit­a:
 #1. Obtener datos del usuario
 #2. Consultar y mostrar varios mensajes de estado del usuario
 #3. Escoger entre distintas acciones que el usuario puede realizar
 #
 
-#Si lograste agregar una opciÃ³n nueva al sistema, por ejemplo, para escribir los datos
-#del perfil del usuario, habrÃ¡s notado que tienes que escribir de nuevo el cÃ³digo necesario
-#con un print por cada dato. El cÃ³digo se verÃ­a como estÃ¡ mÃ¡s abajo.
+#Si lograste agregar una opcion nueva al sistema, por ejemplo, para escribir los datos
+#del perfil del usuario, habras notado que tienes que escribir de nuevo el codigo necesario
+#con un print por cada dato. El codigo se vera como esta mas abajo.
 
 '''
 print("Bienvenido a ... ")
