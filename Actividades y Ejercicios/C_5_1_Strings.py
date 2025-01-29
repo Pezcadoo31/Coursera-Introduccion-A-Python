@@ -1,6 +1,6 @@
 # Modulo para aprender sonbre strings
 
-# En pyrhon un str puede representarse entre comillas simples o dobles
+# En python un str puede representarse entre comillas simples o dobles
 print("Con Comillas Dobles")
 print('Con Comillas Simples')
 print()
